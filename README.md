@@ -332,21 +332,15 @@ Add screenshots of the actual Postman request and response results in the `scree
 
 ![Add a book](screenshots/post-book.png)
 
-### 7. Validation error
 
-![Validation error](screenshots/validation-error.png)
-
-### 8. Update a book
+### 7. Update a book
 
 ![Update a book](screenshots/put-book.png)
 
-### 9. Delete a book
+### 8. Delete a book
 
 ![Delete a book](screenshots/delete-book.png)
 
-### 10. Not found error
-
-![Not found error](screenshots/not-found.png)
 
 ## Debugging Common Errors
 
@@ -383,7 +377,8 @@ This issue occurs when an asynchronous database operation is not properly awaite
 **GitHub Repository:**  
 https://github.com/Lucky15-Tech/Lab_3
 
-**Live URL:** Pending deployment.
+**Live URL:** 
+https://lab-3-63az.onrender.com 
 
 The application is configured for deployment using the `render.yaml` configuration file.
 
